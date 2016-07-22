@@ -4,8 +4,12 @@ A Multi-Threaded Virtual Machine designed using C++, built upon a Machine Abstra
 
 "apps" folder contains test cases.
 
-Please view sources.txt for citation information.
-
-Authors:
-Suraj Jena <skjena@ucdavis.edu>
-Kumud Ravisankaran <kravisankaran@ucdavis.edu>
+Authors:  
+Suraj Jena <skjena@ucdavis.edu>  
+Kumud Ravisankaran <kravisankaran@ucdavis.edu>  
+  
+Sources:  
+VirtualMachineUtils.c, Machine.cpp, Machine.h, main.cpp, and all files in the "apps" folder authored by   
+Christopher J. Nitta, Professor at UC Davis.   
+  
+Additionally, Stack Overflow used for general doubts.   
