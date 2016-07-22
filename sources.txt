@@ -1,4 +1,0 @@
-VirtualMachineUtils.c, Machine.cpp, Machine.h, main.cpp, and all files in the "apps" folder authored by Christopher J. Nitta,
-Professor at UC Davis. 
-
-Additionally, Stack Overflow used for general doubts. 
