@@ -1,2 +1,2 @@
-VirtualMachineUtils.c, Machine.cpp, Machine.h authored by Christopher J. Nitta at UC Davis. 
+VirtualMachineUtils.c, Machine.cpp, Machine.h, main.cpp authored by Christopher J. Nitta at UC Davis. 
 Additionally, Stack Overflow used for general doubts. 
