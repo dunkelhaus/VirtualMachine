@@ -5,3 +5,7 @@ A Multi-Threaded Virtual Machine designed using C++, built upon a Machine Abstra
 "apps" folder contains test cases.
 
 Please view sources.txt for citation information.
+
+Authors:
+Suraj Jena <skjena@ucdavis.edu>
+Kumud Ravisankaran <kravisankaran@ucdavis.edu>
